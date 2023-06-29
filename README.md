@@ -1,2 +1,2 @@
-# Birthdaywish.github.io
+# amritabirthdaywish.github.io
 wish
